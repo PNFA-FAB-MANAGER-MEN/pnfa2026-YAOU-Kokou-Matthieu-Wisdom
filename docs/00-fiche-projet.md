@@ -56,7 +56,10 @@ procédés de fabrication envisagés
 - l'impression soustractive
 - traditionnel
 
-application ·
+application :
+- fusion360
+- VScode
+- mblock
 
 ## 6. Rôle des élèves
 
