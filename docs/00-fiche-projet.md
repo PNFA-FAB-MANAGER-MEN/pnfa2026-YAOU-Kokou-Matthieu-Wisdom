@@ -32,8 +32,8 @@ Ce que l'objet fait :
 Ce que l'élève fait avec :
 - exploite les données pour prendre des decisions
 
-croquis ou esquisse annotée
-(versée dans `docs/medias/`).
+croquis ou esquisse annotée :
+![ebauche visuel fait avec paint](medias/Ebauche%20visuele%201.png)
 
 ## 5. Architecture technique pressentie
 
