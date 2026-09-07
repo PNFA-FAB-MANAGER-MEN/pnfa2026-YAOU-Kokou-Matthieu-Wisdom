@@ -10,7 +10,7 @@
 ## 2. Besoins et bénéficiaires
 
 - Les fabmanager et les eleves ont besoin en permanance de savoir la qualité de l'air ainsi que la temperature
-- Le dispositif va etre installer dans les fablabs et les salles de classe
+- Le dispositif va etre installer dans les fablabs et les salles de classe 
 
 
 ## 3. Objectifs d'apprentissage
